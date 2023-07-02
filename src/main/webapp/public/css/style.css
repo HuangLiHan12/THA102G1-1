@@ -3836,16 +3836,18 @@ a.btn_yellow,
     color: #222
 }
 
-.btn,
-a.btn {
-    border-width: 1px 1px 3px;
-    box-sizing: border-box;
-    display: block;
-    padding: .5em 0;
-    text-align: center;
-    font-size: 15px;
-    text-decoration: none
-}
+/** 因與bootstrap撞名，確認無其他地方使用.btn，故註解這邊的css */
+
+/*.btn,*/
+/*a.btn {*/
+/*    border-width: 1px 1px 3px;*/
+/*    box-sizing: border-box;*/
+/*    display: block;*/
+/*    padding: .5em 0;*/
+/*    text-align: center;*/
+/*    font-size: 15px;*/
+/*    text-decoration: none*/
+/*}*/
 
 .radius_10 {
     -webkit-border-radius: 10px;
