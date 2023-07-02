@@ -20,8 +20,9 @@
   <link rel="icon" href="${pageContext.request.contextPath}/public/images/front-end/marrymelittle.ico" type="image/x-icon">
 
   <!-- Css Styles -->
-  <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/font-awesome.min.css" type="text/css" />
+
   <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/fontawesome/css/all.css" type="text/css" />
   <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/bootstrap/bootstrap.min.css" type="text/css" />
 
   <style>
@@ -52,10 +53,18 @@
   <button type="button" class="btn btn-info">Info</button>
   <button type="button" class="btn btn-light">Light</button>
   <button type="button" class="btn btn-dark">Dark</button>
-
   <button type="button" class="btn btn-link">Link</button>
 
 </div>
+<div>
+<%--  https://fontawesome.com/search?o=r&m=free  --%>
+<%--  目前引入的font icon 只可使用免費的icon --%>
+  <h1>icons</h1>
+  <i class="fa fa-home">icon1</i>
+  <i class="fa-solid fa-gauge">icon2</i>
+  <i class="fa-regular fa-image">icon3</i>
+</div>
+
 
 
 <!-- Js Plugins -->

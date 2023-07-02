@@ -14,7 +14,7 @@
 
     <!-- Css Styles -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/bootstrap/bootstrap.min.css" type="text/css" />
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/fontawesome/css/all.css" type="text/css" />
     <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/style.css" type="text/css" />
 </head>
 
