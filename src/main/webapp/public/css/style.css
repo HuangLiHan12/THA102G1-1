@@ -135,12 +135,12 @@ var {
     font: normal normal 100% 微軟正黑體, "Microsoft JhengHei"
 }
 
-a,
-a:link,
-a:visited {
-    color: #04d;
-    text-decoration: underline
-}
+/*a,*/
+/*a:link,*/
+/*a:visited {*/
+/*    color: #04d;*/
+/*    text-decoration: underline*/
+/*}*/
 
 a:hover {
     color: #f00
